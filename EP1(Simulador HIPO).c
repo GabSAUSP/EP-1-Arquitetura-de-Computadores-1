@@ -1,4 +1,4 @@
-/* Gabriel Silva Alvarenga 13781945 */
+/* Gabriel Silva Alvarenga */
 
 /* O processador executa instruções a partir do endereço zero.
  * as instruções DDF e DFF não precisam ser codificadas.
